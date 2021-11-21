@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,uBAAwB,CACxB,eACF","file":"main.cba7c8f5.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  text-decoration: inherit;\n  display: inherit;\n}\n\n"]}

@@ -1,0 +1,2 @@
+(this.webpackJsonpwebsite=this.webpackJsonpwebsite||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);s(1);var c=s(3),n=s.n(c),i=(s(8),s(0));var r=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Hello This is react Template"})})};n.a.render(Object(i.jsx)("div",{children:Object(i.jsx)(r,{})}),document.getElementById("root"))},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.de140be3.chunk.js.map

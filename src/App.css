@@ -1,0 +1,15 @@
+.stack {
+  display: flexbox;
+ flex: auto;
+ -ms-text-kashida-space: inherit;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+body{
+  background-image: url(images/background.png);
+  color:black;
+  background-size: cover;
+box-sizing: border-box;
+position: relative;
+}
